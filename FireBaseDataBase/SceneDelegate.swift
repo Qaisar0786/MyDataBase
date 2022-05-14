@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  FireBaseDataBase
 //
-//  Created by Shabnam Parveen on 5/14/22.
+//  Created by Qaisar Raza on 5/14/22.
 //
 
 import UIKit
